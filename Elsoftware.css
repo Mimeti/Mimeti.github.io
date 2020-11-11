@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', Helvetica, sans-serif;
+    background-color: beige;
+}
+
+nav{
+    text-align: right;
+    padding: 30px 50px 0 0;
+}
+
+nav > a{
+    color: black;
+    font-weight: 300;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+nav > a:hover{
+    text-decoration: underline;
+}
+
+.titulo{
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 60px;
+    text-decoration: underline;
+}
+
+/*contenedor-mantenimento-software*/
+
+img{
+    height: 50%;
+    width: 30%;
+    clear: both;
+    display: block;
+    margin: 0 auto 1.75em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+/*contenedor-img-discoduro*/
+
+img{
+    height: 50%;
+    width: 30%;
+    clear: both;
+    display: block;
+    margin: 0 auto 1.75em;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 6px;
+    margin-bottom: 6px;
+}
+
+/*contenedor-img-archivos-tpm*/
+
+img{
+    height: 50%;
+    width: 30%; 
+}
+
+/*contenedor-img-liberar-espacio*/
+img{
+    height: 50%;
+    width: 40%; 
+}
+
+/*contenedor-ejecucion-de-virus*/
+
+img{
+    height: 40%;
+    width: 30%; 
+}
+
+/*contenedor-papelera*/
+img{
+    height: 50%;
+    width: 30%; 
+}
+
+/*contenedor-matentenimento-correctivo*/
+img{
+    height: 50%;
+    width: 30%; 
+}
